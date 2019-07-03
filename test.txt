@@ -1,0 +1,5 @@
+GitGuardian Test
+
+username = jbeantx
+password = mytestpassword
+aws_key_invalid = AKIATESTTPLHVSJ563XQ
